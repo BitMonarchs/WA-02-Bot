@@ -1,0 +1,27 @@
+{
+  "name": "wa-02-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot For Everyone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BitMonarchs/WA-02-Bot.git"
+  },
+  "keywords": [
+    "whatsapp",
+    "Whatsapp",
+    "Bot",
+    "Baileys",
+    "Typescript",
+    "BitMonarchs"
+  ],
+  "author": "BitMonarchs",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/BitMonarchs/WA-02-Bot/issues"
+  },
+  "homepage": "https://github.com/BitMonarchs/WA-02-Bot#readme"
+}
